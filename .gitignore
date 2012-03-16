@@ -1,0 +1,6 @@
+!/.gitignore
+*.log
+tmp/*
+.DS_Store
+*~
+*.orig
